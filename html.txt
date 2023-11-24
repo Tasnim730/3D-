@@ -8,7 +8,7 @@
 <body>
     <h1>virtual reality</h1>
     
-    <!-- Add an image -->
-    <img src="C:\Users\GK-S\Desktop\3D" alt="Photo meubles 3d.png">
+    <!-- Add an image with a relative path -->
+    <img src="3D/Photo_meubles_3d.png" alt="Photo meubles 3d">
 </body>
 </html>
